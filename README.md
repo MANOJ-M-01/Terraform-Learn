@@ -45,3 +45,10 @@ region = us-east-1
 ### Side Notes
 
 In most cases, `.tfvars` files are ignored. However, for this testing scenario, I am pushing them to GitHub.
+
+### Terraform commands
+- `terraform init` initial 
+- `terraform refresh` get the server state
+- `terraform plan` view the plan
+- `terraform apply` apply the change
+- `terraform destroy` destroy the infrastructure
