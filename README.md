@@ -48,7 +48,7 @@ In most cases, `.tfvars` files are ignored. However, for this testing scenario, 
 
 ### Terraform commands
 - `terraform init` initial 
-- `terraform refresh` get the server state
+- `terraform refresh` get the currect state from the infrastructure
 - `terraform plan` view the plan
 - `terraform apply` apply the change
 - `terraform destroy` destroy the infrastructure
