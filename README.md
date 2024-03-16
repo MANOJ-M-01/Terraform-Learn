@@ -1,6 +1,6 @@
 ### Tutorials
-[Why You NEED To Learn Terraform | Practical Tutorial](https://www.youtube.com/watch?v=nvNqfgojocs&list=TLPQMTYwMzIwMjQUIcCriIeuAA&index=2&pp=gAQBiAQB)
-
+[Why You NEED To Learn Terraform | Practical Tutorial](https://www.youtube.com/watch?v=nvNqfgojocs&list=TLPQMTYwMzIwMjQUIcCriIeuAA&index=2&pp=gAQBiAQB)  
+[Getting Started With AWS Cloud | Step-by-Step Guide](https://www.youtube.com/watch?v=CjKhQoYeR4Q)
 
 - Install terraform - https://developer.hashicorp.com/terraform/install#windows  
 - Install aws cli - https://aws.amazon.com/cli/
