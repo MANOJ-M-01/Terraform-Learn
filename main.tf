@@ -1,10 +1,10 @@
 provider "aws" {
-  profile = "terraform"
+  profile = "manoj_admin"
   region  = "us-east-1"
 }
 
 resource "aws_instance" "app_server" {
-  ami           = "ami-0b8b44ec9a8f90422"
+  ami           = "ami-080e1f13689e07408"
   instance_type = var.ec2_instance_type
 
   tags = {
